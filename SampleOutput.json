@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Emiko Jozuka",
+            "title": "Japan earthquake triggers tsunami warnings and evacuation orders - CNN",
+            "description": "A 7.5 magnitude earthquake struck western Japan on Monday afternoon, triggering a tsunami alert and prompting an official warning to residents to evacuate affected coastal areas as soon as possible.",
+            "url": "https://www.cnn.com/2024/01/01/asia/japan-earthquake-tsunami-warning-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240101081658-01-japan-earthquake-010124-wajima.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-01T11:54:00Z",
+            "content": "A 7.5 magnitude earthquake struck western Japan on Monday afternoon, triggering tsunami alerts as far away as eastern Russia and prompting a warning for residents to evacuate affected coastal areas o… [+4125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "NFL Playoff Picture 2023: Updated AFC and NFC Standings, Clinching Scenarios for Week 18 - NBC Sports",
+            "description": "Nine teams have clinched playoff berths and five playoff spots remain up for grabs.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-playoff-picture-2023-updated-afc-and-nfc-standings-clinching-scenarios-for-week-18",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/8cd3426/2147483647/strip/true/crop/3408x1917+0+240/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbc%2F33%2Fc1994d664c6d81936848f67d5d35%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1716172344",
+            "publishedAt": "2024-01-01T11:25:01Z",
+            "content": "Nine teams have clinched playoff berths and five playoff spots remain up for grabs. Heres how the NFL playoff picture looks heading into Week 18:\r\nNFC Playoff Picture\r\nDIVISION LEADERS\r\n1. 49ers (12-… [+2988 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Linda Searing",
+            "title": "42 percent higher dementia risk linked to ‘good cholesterol’ - The Washington Post",
+            "description": "At high levels, HDL’s structure and actions change, and it “may become deleterious to health” in various ways, researchers say.",
+            "url": "https://www.washingtonpost.com/wellness/2024/01/01/good-cholesterol-hdl-dementia-aging/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UDSB3VD6FVFPJOK2NFPXQRWZ5E.jpg&w=1440",
+            "publishedAt": "2024-01-01T11:21:04Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nDespite its nickname as the good cholesterol because of its cardiovascular benefits, high-density lipoprotein (HDL) cholesterol was li… [+1937 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "US sinks Houthi boats in the Red Sea: How did the fight unfold? - Al Jazeera English",
+            "description": "Shipping company Maersk halts operations after maritime escalation between the Houthis and US forces.",
+            "url": "https://www.aljazeera.com/news/2024/1/1/us-sinks-houthi-boats-in-the-red-sea-how-did-the-fight-unfold",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/2023-12-28T125518Z_279625876_RC26H4A0FJC7_RTRMADP_3_ISRAEL-PALESTINIANS-SHIPPING-GERMANY-1704100266.jpg?resize=1200%2C630",
+            "publishedAt": "2024-01-01T11:04:55Z",
+            "content": "The US military said that it sunk three Houthi vessels in the Red Sea in a statement on Sunday, and killed 10 fighters of the Yemeni armed group after a clash in the middle of one of the worlds most … [+4756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Alyssa Morin",
+            "title": "Astrologer Susan Miller Reveals 2024 Predictions for Each Zodiac Sign - E! NEWS",
+            "description": "Astrologer Susan Miller offered insight into the year ahead, exclusively sharing with E! News what's in store for each zodiac sign and how they can make the most out of 2024.",
+            "url": "https://www.eonline.com/news/1391671/astrologer-susan-miller-reveals-her-2024-predictions-for-each-zodiac-sign",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20231119/rs_1200x1200-231219101735-astrology1200.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2024-01-01T11:00:00Z",
+            "content": "Taurus (April 20-May 20): \"Taurus can get anything they want. Their one true love is a very big part of Jupiter conjunct the sun. But when Jupiter goes into Gemini, that's when they'll start making m… [+1128 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "TIA GOLDENBERG, NAJIB JOBAIN, SAMY MAGDY",
+            "title": "Israel is pulling thousands of troops from Gaza as combat focuses on enclave's main southern city - The Associated Press",
+            "description": "The Israeli military says thousands of soldiers are being shifted out of the Gaza Strip. It is the first significant drawdown of troops since the war began. But forces continue to bear down on other parts of the embattled territory, especially the south. Isra…",
+            "url": "https://apnews.com/article/israel-hamas-war-news-01-01-2024-0f7812d5eedb9d8a87ba35ffe83acee8",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c56fed9/2147483647/strip/true/crop/5450x3066+0+284/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2F85%2F33b9319a084efa2156321d27c0c8%2F4264f0b386cc4e6a9a3a78782e0a53b5",
+            "publishedAt": "2024-01-01T10:41:01Z",
+            "content": "TEL AVIV, Israel (AP) Thousands of Israeli soldiers are being shifted out of the Gaza Strip, the military said Monday, in the first significant drawdown of troops since the war began as forces contin… [+4720 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": "By  JERUSALEM POST STAFF",
+            "title": "Hundreds of Israelis contract new COVID sub-variant JN.1 - The Jerusalem Post",
+            "description": "The Health Ministry confirmed the report, adding that Israel has seen a small rise in morbidity rates...around 200 cases of the sub-variant were recorded in Israel.\"",
+            "url": "https://www.jpost.com/breaking-news/article-780276",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/529648",
+            "publishedAt": "2024-01-01T10:06:00Z",
+            "content": "Some 200 Israelis have contracted the JN.1 coronavirus variant, a highly contagious sub-variant starting to dominate the latest wave of COVID-19 infections, Maariv reported on Monday.\r\nThe Health Min… [+980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Microsoft boss changes tune after criticism of UK - BBC.com",
+            "description": "Brad Smith had said the UK was bad for business after a takeover of Activision was initially blocked.",
+            "url": "https://www.bbc.com/news/business-67839205",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/75F4/production/_132169103_actnew.png",
+            "publishedAt": "2024-01-01T09:58:00Z",
+            "content": "Microsoft president Brad Smith\r\nMicrosoft's president, Brad Smith, has rowed back on criticism he made last year that the UK was \"bad for business\".\r\nMr Smith made the comments after the competition … [+4070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dark Horizons"
+            },
+            "author": "Garth Franklin",
+            "title": "DH's Most Anticipated Games Of 2024 - Dark Horizons",
+            "description": "The new year has begun, and this week I’ll be offering three lists of our most anticipated titles of the coming year in the fields of movies, television and video games, which will serve as a practical preview of what’s to come. Today, we begin with gaming, a…",
+            "url": "https://www.darkhorizons.com/dhs-most-anticipated-games-of-2024/",
+            "urlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2023/12/dhs-most-anticipated-games-of-2024.jpg",
+            "publishedAt": "2024-01-01T07:52:13Z",
+            "content": "The new year has begun, and this week I’ll be offering three lists of our most anticipated titles of the coming year in the fields of movies, television and video games, which will serve as a practic… [+11231 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Landon Mion",
+            "title": "Revelers watch ball drop in US, around the world to ring in 2024: 'It's beautiful' - Fox News",
+            "description": "Revelers around the world celebrated bringing in the new year by watching the ball drop, kissing loved ones and being treated to firework showcases.",
+            "url": "https://www.foxnews.com/world/revelers-watch-ball-drop-us-around-the-world-ring-2024-its-beautiful",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/nyegreece.png",
+            "publishedAt": "2024-01-01T07:07:00Z",
+            "content": "People across the globe celebrated the turn of the new year Sunday night and into Monday morning as they watched the ball drop and kissed loved ones under confetti that showered onto city streets mar… [+3015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.geo.tv"
+            },
+            "author": "Melanie Walker",
+            "title": "Nigel Lythgoe breaks silence on Paula Abduls SA allegations - Geo News",
+            "description": "Paula Abdul filed a lawsuit against her 'American Idol' co-worker at the Los Angeles County Superior Court",
+            "url": "https://www.geo.tv/latest/525301-nigel-lythgoe-breaks-silence-on-paula-abduls-sa-allegations",
+            "urlToImage": "https://www.geo.tv/assets/uploads/updates/2024-01-01/l_525301_120002_updates.jpg",
+            "publishedAt": "2024-01-01T06:49:00Z",
+            "content": "Nigel Lythgoe dismissed the sexual assault allegations made by Paula Abdul.\r\nEarlier this week, the American Idol judge accused the 71 year-old producer in a lawsuit filed at the Los Angeles County S… [+977 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, Simone McCarthy",
+            "title": "Xi Jinping rings in 2024 with rare admission that China’s economy is in trouble - CNN",
+            "description": "China’s businesses are struggling and job seekers have trouble finding work, President Xi Jinping acknowledged during his Sunday New Year’s Eve speech.",
+            "url": "https://www.cnn.com/2024/01/01/economy/xi-jinping-new-year-address-economy-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231231220458-xi-jinping-122923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-01T06:26:00Z",
+            "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter, which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinas businesses are struggling and job seek… [+4328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Monday, Jan. 1, 2024 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2024/1/1/24016948/horoscopes-today-monday-jan-1-2024",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/d89067e/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fyz9hrkqooIS-xIXJ1kYNOyTNJQI%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F25189170%2FGeorgia_mug.jpeg",
+            "publishedAt": "2024-01-01T06:02:47Z",
+            "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Virgo.\r\nAries (March 21-April 19)\r\nToday youre high visibility, which means people notice you. Meanwhile, you … [+3670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Sagar Naresh",
+            "title": "Galaxy S24 hinted to feature an AI Photo Editor similar to Pixel 8's Magic Eraser - SamMobile - Samsung news",
+            "description": "Samsung is all set to unveil its premium flagship Galaxy S24 lineup this month. Recently, leaked images of the SIM ...",
+            "url": "https://www.sammobile.com/news/galaxy-s24-hinted-to-feature-an-ai-photo-editor-similar-to-pixel-8s-magic-eraser/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/12/Samsung-Galaxy-S24-Ultra-Violet-720x405.jpg",
+            "publishedAt": "2024-01-01T05:53:00Z",
+            "content": "Samsung is all set to unveil its premium flagship Galaxy S24 lineup this month. Recently, leaked images of the SIM trays unveiled the new color options the Galaxy S24 and Galaxy S24+ will debut in. M… [+1564 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "HYUNG-JIN KIM",
+            "title": "North Korea's Kim orders military to 'thoroughly annihilate' US, South Korea if provoked - The Associated Press",
+            "description": "North Korean leader Kim Jong Un has ordered his military to “thoroughly annihilate” the United States and South Korea if provoked, State media reported Monday that Kim made the order during a meeting with commanding army officers the previous day. In a five-d…",
+            "url": "https://apnews.com/article/north-korea-kim-us-missiles-nuclear-6c8834f71ac43bb9d0addc404fe00f18",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e1eeaf6/2147483647/strip/true/crop/3000x1688+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2F3b%2Fe8f06b92d5d29d34551c66a2b9a2%2F9f51afe2fdec43ec96ac05b99504da26",
+            "publishedAt": "2024-01-01T05:52:00Z",
+            "content": "SEOUL, South Korea (AP) North Korean leader Kim Jong Un ordered his military to thoroughly annihilate the United States and South Korea if provoked, state media reported Monday, after he vowed to boo… [+3687 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportschicago.com"
+            },
+            "author": "Josh Schrock",
+            "title": "Schrock's Report Card: Grading Justin Fields, Bears in dominant win vs. Falcons - NBC Sports Chicago",
+            "description": "Justin Fields dazzled, DJ Moore starred, and the Bears’ defense suffocated a Falcons team that had no chance on Sunday at Solider Field. Insider Josh Schrock hands out a sterling report card to ring in 2024.",
+            "url": "http://www.nbcsportschicago.com/nfl/chicago-bears/bears-analysis/schrocks-report-card-grading-justin-fields-bears-in-dominant-win-vs-falcons/529177/",
+            "urlToImage": "https://media.nbcsportschicago.com/2023/12/Gervon-Dexter-Tremaine-Edmunds-USA.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2024-01-01T05:49:20Z",
+            "content": "CHICAGO -- The Bears closed out 2023 and their home slate with a bang Sunday, dominating the Atlanta Falcons from the opening kick-off in a resounding 37-17 win at Soldier Field. \r\nQuarterback Justin… [+4733 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paradise Afshar",
+            "title": "California father and 10-year-old son arrested after the child shot and killed another boy, deputies say - CNN",
+            "description": "A California man and his 10-year-old son were arrested after the boy shot and killed another child using a stolen gun he’d found in his dad’s car, the Sacramento County Sheriff’s Office said.",
+            "url": "https://www.cnn.com/2023/12/31/us/sacramento-child-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240101002718-sacramento-boy-gunshot-map.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-01T05:39:00Z",
+            "content": "A California man and his 10-year-old son were arrested after the boy shot and killed another child using a stolen gun hed found in his dads car, the Sacramento County Sheriffs Office said.\r\nDeputies … [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Dinah Voyles Pulver, Doyle Rice, Ramon Padilla",
+            "title": "2023 was Earth's hottest year, experts say. Charts show what happened. - USA TODAY",
+            "description": "The only question remaining is how much warmer 2023 will wind up when the world's agencies complete their final analyses over the next two weeks.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/01/01/2023-was-earths-hottest-year-experts-say/71882923007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/15/USAT/71936315007-warmestyeartopper-4.jpg?crop=4422,2489,x0,y273&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-01-01T05:04:16Z",
+            "content": "It's a moment scientists have warned about for months: Earth has just ended its warmest year since people began keeping records, and scientists say it may have been the warmest in 125,000 years.\r\nEve… [+6950 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Hauari",
+            "title": "What's open New Year's Day 2024? Walmart, Target open; Costco closed - USA TODAY",
+            "description": "Walmart and Target will be open, but Costco and Trader Joe's are closed. Here's what to know about restaurants and stores on New Year's Day.",
+            "url": "https://www.usatoday.com/story/money/2024/01/01/open-closed-new-years-day-2024-stores-restaurants-grocery/72049667007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/28/USAT/72049949007-gty-1858023851.jpg?crop=2997,1686,x0,y301&width=2997&height=1686&format=pjpg&auto=webp",
+            "publishedAt": "2024-01-01T05:03:56Z",
+            "content": "The new year has arrived, and whether you're looking to knock out some errands, go on a shopping spree or grab a quick bite to eat, consumers will have plenty of shopping and restaurant options on Ne… [+5184 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Meredith Gordon, Fox Van Allen",
+            "title": "How to watch the Rose Bowl game: Alabama Crimson Tide vs. Michigan Wolverines football livestream options - CBS News",
+            "description": "Find out how to watch the Michigan Wolverines face the Alabama Crimson Tide at the Rose Bowl today.",
+            "url": "https://www.cbsnews.com/essentials/how-to-watch-todays-alabama-crimson-tide-vs-michigan-wolverines-game-rose-bowl-2024-01-01/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/29/b9e31d82-1c3d-4781-9b96-cbb3017a7ced/thumbnail/1200x630/63bb3f7d521e5217fb01543023de6424/rose-bowl-alabama-hero.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+            "publishedAt": "2024-01-01T05:00:12Z",
+            "content": "Jalen Milroe #4 of the Alabama Crimson Tide drops back to pass during the first quarter against the Georgia Bulldogs during the SEC Championship at Mercedes-Benz Stadium on Dec. 2, 2023 in Atlanta, G… [+10355 chars]"
+        }
+    ]
+}
